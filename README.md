@@ -15,10 +15,5 @@ I'm a Machine Learning Engineer dedicated to building intelligent systems and so
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23000000.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
 
-## GitHub Stats
-<!-- Replace `your-username` with your GitHub username -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/Omar11N)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/Omar11N)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)
