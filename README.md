@@ -1,19 +1,43 @@
 # Hi there, I'm Omar 👋
 
-I'm a Machine Learning Engineer dedicated to building intelligent systems and solving real-world problems using data-driven approaches. I specialize in Python and work extensively with deep learning frameworks such as PyTorch, TensorFlow, and Hugging Face.
+I’m a **Machine Learning Engineer** with a strong focus on **reinforcement learning, robotics simulation, and sim2real transfer**.  
+My academic and research work bridges AI and robotics, particularly in simulation environments like **MuJoCo, Unity Physics, PyBullet, Isaac Sim, and Gazebo**.  
 
-## About Me
-- 🔭 I’m currently working on: **TTS with custom voices**
-- 🌱 I’m constantly exploring new techniques in deep learning and AI.
-- 👯 I’m open to collaborating on innovative ML projects.
-- 📫 How to reach me: **obaiazed@gmail.com**
-- ⚡ Fun fact: **Like to talk all the time about AI advancements**
+I enjoy developing intelligent agents that can transfer from simulation to the real world, leveraging techniques such as **domain randomization, policy optimization (PPO, SAC), and system identification**.  
+My MSc research on *Morphological Computation as an Intrinsic Reward* was published at an international conference (**GSO 2025**).  
 
-## My Tech Stack
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23000000.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
+Currently, I’m also building a **mental health mobile app** with **Flask (backend)** and **React Native (frontend)**, where I integrate AI-driven features to support well-being.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)
+---
+
+## 🔧 Tech Stack
+- **Programming:** Python (advanced), C++ (proficient), C# (Unity)  
+- **Reinforcement Learning:** PPO, SAC, Imitation Learning, Transfer Learning  
+- **Robotics Simulation:** MuJoCo, Unity Physics, PyBullet, Isaac Sim, Gazebo, ROS2  
+- **Deep Learning:** PyTorch, TensorFlow, Hugging Face  
+- **Data & Tools:** PostgreSQL, NumPy, Pandas, Jira, Confluence, Bitbucket  
+
+---
+
+## 🚀 Current & Past Projects
+- **Research Assistant – Hamburg University of Technology**  
+  Implemented PPO and SAC in **MuJoCo-based Meta-World benchmarks**; researched transfer learning and sim2real strategies for robotic manipulation tasks; tuned simulation parameters to align simulated and real robot dynamics.  
+
+- **Independent Project – Robotic Arm Simulation (Unity)**  
+  Developed a robotic arm simulation with **Unity physics-based dynamics**. Applied reinforcement learning controllers and **domain randomization** for sim2real generalization.  
+
+- **AI Product Manager – CHECK24**  
+  Integrated **Large Language Models (LLMs)** with **Retrieval-Augmented Generation (RAG)** for a production chatbot, boosting automation to **93%**.  
+
+- **Current Project – Mental Health App**  
+  Building a cross-platform app with **Flask backend + React Native frontend**, integrating AI-driven recommendations for user well-being.  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)  
+- **Email:** obaiazed@gmail.com  
+
+---
+
+⚡ *Passionate about bridging AI and robotics, building intelligent agents, and pushing the boundaries of sim2real transfer.*
