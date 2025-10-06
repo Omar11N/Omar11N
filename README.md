@@ -27,7 +27,7 @@ Currently, I’m also building a **mental health mobile app** with **Flask (back
   Developed a robotic arm simulation with **Unity physics-based dynamics**. Applied reinforcement learning controllers and **domain randomization** for sim2real generalization.  
 
 - **AI Product Manager – CHECK24**  
-  Integrated **Large Language Models (LLMs)** with **Retrieval-Augmented Generation (RAG)** for a production chatbot, boosting automation to **93%**.  
+  Integrated **Large Language Models (LLMs)** with **Retrieval-Augmented Generation (RAG)** and **Model Context Protocol (MCP)** for a production chatbot, boosting automation to **93%**.  
 
 - **Current Project – Mental Health App**  
   Building a cross-platform app with **Flask backend + React Native frontend**, integrating AI-driven recommendations for user well-being.  
