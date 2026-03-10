@@ -1,43 +1,49 @@
 # Hi there, I'm Omar 👋
 
-I’m a **Machine Learning Engineer** with a strong focus on **reinforcement learning, robotics simulation, and sim2real transfer**.  
-My academic and research work bridges AI and robotics, particularly in simulation environments like **MuJoCo, Unity Physics, PyBullet, Isaac Sim, and Gazebo**.  
-
-I enjoy developing intelligent agents that can transfer from simulation to the real world, leveraging techniques such as **domain randomization, policy optimization (PPO, SAC), and system identification**.  
+I'm a **Machine Learning Engineer** with a strong focus on **AI integration, LLM systems, and deep learning**.  
+I build and ship AI-driven products — from fine-tuned models and RAG pipelines to production chatbots and intelligent mobile applications.  
 My MSc research on *Morphological Computation as an Intrinsic Reward* was published at an international conference (**GSO 2025**).  
-
-Currently, I’m also building a **mental health mobile app** with **Flask (backend)** and **React Native (frontend)**, where I integrate AI-driven features to support well-being.
+Currently building a **mental health mobile app** with a **Flask backend** and **React Native frontend**, integrating AI-driven features to support user well-being.
 
 ---
 
 ## 🔧 Tech Stack
-- **Programming:** Python (advanced), C++ (proficient), C# (Unity)  
-- **Reinforcement Learning:** PPO, SAC, Imitation Learning, Transfer Learning  
-- **Robotics Simulation:** MuJoCo, Unity Physics, PyBullet, Isaac Sim, Gazebo, ROS2  
-- **Deep Learning:** PyTorch, TensorFlow, Hugging Face  
-- **Data & Tools:** PostgreSQL, NumPy, Pandas, Jira, Confluence, Bitbucket  
+
+- **Programming:** Python (advanced), C++ (proficient), C# (Unity)
+- **AI / ML:** PyTorch, TensorFlow, Hugging Face, Fine-tuning, RAG, LLMs, MCP
+- **MLOps & Data:** PostgreSQL, NumPy, Pandas, Jira, Confluence, Bitbucket
+- **Web & Mobile:** Flask, React Native, Node.js
 
 ---
 
-## 🚀 Current & Past Projects
-- **Research Assistant – Hamburg University of Technology**  
-  Implemented PPO and SAC in **MuJoCo-based Meta-World benchmarks**; researched transfer learning and sim2real strategies for robotic manipulation tasks; tuned simulation parameters to align simulated and real robot dynamics.  
-
-- **Independent Project – Robotic Arm Simulation (Unity)**  
-  Developed a robotic arm simulation with **Unity physics-based dynamics**. Applied reinforcement learning controllers and **domain randomization** for sim2real generalization.  
+## 🚀 Projects
 
 - **AI Product Manager – CHECK24**  
-  Integrated **Large Language Models (LLMs)** with **Retrieval-Augmented Generation (RAG)** and **Model Context Protocol (MCP)** for a production chatbot, boosting automation to **93%**.  
+  Integrated **LLMs** with **Retrieval-Augmented Generation (RAG)** and **Model Context Protocol (MCP)** for a production chatbot, boosting automation to **93%**.
 
-- **Current Project – Mental Health App**  
-  Building a cross-platform app with **Flask backend + React Native frontend**, integrating AI-driven recommendations for user well-being.  
+- **Mental Health App – Midnight Momentum**  
+  Building a cross-platform app with **Flask + React Native**, with a fine-tuned AI companion (Eva) and AI-powered mood insights.
+
+- **Research Assistant – Hamburg University of Technology**  
+  Published MSc research at **GSO 2025** on intrinsic reward shaping; worked on transfer learning strategies and benchmarking in simulation environments.
+
+---
+
+## 🎮 Hobby & Side Projects
+
+I have a deep interest in **reinforcement learning and robotics simulation** — for me it sits at the intersection of AI research and engineering challenge.
+
+- Implemented **PPO and SAC** in MuJoCo-based **Meta-World benchmarks**
+- Built a robotic arm simulation in Unity with **domain randomization** for sim2real generalization
+- Exploring **Isaac Sim, PyBullet, and ROS2** in personal experiments
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)  
-- **Email:** obaiazed@gmail.com  
+
+- [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)
+- **Email:** obaiazed@gmail.com
 
 ---
 
-⚡ *Passionate about bridging AI and robotics, building intelligent agents, and pushing the boundaries of sim2real transfer.*
+⚡ *Focused on building AI products that work in the real world — from fine-tuned models to deployed applications.*
