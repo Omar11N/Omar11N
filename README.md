@@ -134,17 +134,6 @@ I'm an **AI Engineer & ML Researcher** specializing in LLM systems, Reinforcemen
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=obaiazid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaiazid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-
-</div>
-
----
-
 ## 🌍 Languages
 
 🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇩🇪 German (C2) &nbsp;|&nbsp; 🇬🇧 English (C1)
