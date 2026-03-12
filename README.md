@@ -1,49 +1,160 @@
-# Hi there, I'm Omar 👋
+<div align="center">
 
-I'm a **Machine Learning Engineer** with a strong focus on **AI integration, LLM systems, and deep learning**.  
-I build and ship AI-driven products — from fine-tuned models and RAG pipelines to production chatbots and intelligent mobile applications.  
-My MSc research on *Morphological Computation as an Intrinsic Reward* was published at an international conference (**GSO 2025**).  
-Currently building a **mental health mobile app** with a **Flask backend** and **React Native frontend**, integrating AI-driven features to support user well-being.
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omar%20Baiazid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
----
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Baiazid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-baiazid/)
+[![Email](https://img.shields.io/badge/Email-obaiazed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaiazed@gmail.com)
+[![Location](https://img.shields.io/badge/Hamburg-Germany-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GSO 2025](https://img.shields.io/badge/Published-GSO%202025-22c55e?style=for-the-badge&logo=academia&logoColor=white)](#)
 
-## 🔧 Tech Stack
-
-- **Programming:** Python (advanced), C++ (proficient), C# (Unity)
-- **AI / ML:** PyTorch, TensorFlow, Hugging Face, Fine-tuning, RAG, LLMs, MCP
-- **MLOps & Data:** PostgreSQL, NumPy, Pandas, Jira, Confluence, Bitbucket
-- **Web & Mobile:** Flask, React Native, Node.js
+</div>
 
 ---
 
-## 🚀 Projects
+## 👋 About Me
 
-- **AI Product Manager – CHECK24**  
-  Integrated **LLMs** with **Retrieval-Augmented Generation (RAG)** and **Model Context Protocol (MCP)** for a production chatbot, boosting automation to **93%**.
+I'm an **AI Engineer & ML Researcher** specializing in LLM systems, Reinforcement Learning, and production AI deployment. I bridge the gap between cutting-edge research and real-world applications — from fine-tuned models and RAG pipelines to deployed chatbots and intelligent mobile apps.
 
-- **Mental Health App – Midnight Momentum**  
-  Building a cross-platform app with **Flask + React Native**, with a fine-tuned AI companion (Eva) and AI-powered mood insights.
-
-- **Research Assistant – Hamburg University of Technology**  
-  Published MSc research at **GSO 2025** on intrinsic reward shaping; worked on transfer learning strategies and benchmarking in simulation environments.
-
----
-
-## 🎮 Hobby & Side Projects
-
-I have a deep interest in **reinforcement learning and robotics simulation** — for me it sits at the intersection of AI research and engineering challenge.
-
-- Implemented **PPO and SAC** in MuJoCo-based **Meta-World benchmarks**
-- Built a robotic arm simulation in Unity with **domain randomization** for sim2real generalization
-- Exploring **Isaac Sim, PyBullet, and ROS2** in personal experiments
+- 🎓 **MSc Computer Science – Machine Learning** @ Hamburg University of Technology
+- 📄 **Published Researcher** — *Morphological Computation as Intrinsic Reward for RL* at **GSO 2025**
+- 🤖 Built a customer service chatbot at **CHECK24** scaling AI automation from **0% → 93%**
+- 🚀 Currently building **Midnight Momentum** — a behavior change platform with LLM-driven coaching
+- 🧠 Deep passion for **Reinforcement Learning**, robotics simulation, and autonomous systems
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/omar-baiazid/)
-- **Email:** obaiazed@gmail.com
+<div align="center">
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Robotics & Simulation
+![MuJoCo](https://img.shields.io/badge/MuJoCo-00B4D8?style=for-the-badge&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### Web & Infrastructure
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
 
 ---
 
-⚡ *Focused on building AI products that work in the real world — from fine-tuned models to deployed applications.*
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌙 Midnight Momentum
+**Behavior change platform with LLM-driven coaching**
+
+- RAG-based assistant with real-time user context
+- "Future Self Persona" system with push notifications
+- Flask + PostgreSQL backend, React Native frontend
+- GCP Vertex AI · OAuth2 · JWT · 50+ alpha users
+
+</td>
+<td width="50%">
+
+### 🤖 CHECK24 AI Chatbot
+**Customer service automation at scale**
+
+- Scaled AI-driven response rate from **0% → 93%**
+- Model Context Protocol (MCP) + RAG architecture
+- Led cross-functional team of 6 engineers
+- End-to-end product ownership & KPI tracking
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 MSc Research – GSO 2025
+**Morphological Computation as Intrinsic Reward for RL**
+
+- Novel intrinsic reward shaping for robotic agents
+- Presented at international conference (GSO 2025)
+- Builds on transfer learning & sim-to-real strategies
+- Implemented in MuJoCo Meta-World benchmarks
+
+</td>
+<td width="50%">
+
+### 🏎️ Autonomous Racing in Unreal Engine
+**RL agents for high-speed self-driving**
+
+- SAC & PPO agents in custom Unreal environments
+- Reward shaping for high-speed autonomous navigation
+- Hyperparameter tuning & benchmarking pipelines
+- Ongoing research project
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🫁 Lung Disease Detection CNN
+**1st Place · 98.5% Accuracy**
+
+- Automated diagnosis: COVID-19, pneumonia, lung opacity
+- End-to-end preprocessing pipeline for X-ray images
+- Noise reduction & augmentation for robustness
+
+</td>
+<td width="50%">
+
+### 🎙️ German Speech-to-Text (NeMo)
+**Domain-adapted ASR for German**
+
+- Fine-tuned NVIDIA NeMo for German transcription
+- Adapted for domain-specific terminology
+- Production-ready speech recognition pipeline
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=obaiazid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaiazid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+
+</div>
+
+---
+
+## 🌍 Languages
+
+🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇩🇪 German (C2) &nbsp;|&nbsp; 🇬🇧 English (C1)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+*Building AI that works in the real world — from fine-tuned models to deployed applications.*
+
+</div>
