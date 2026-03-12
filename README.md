@@ -60,7 +60,7 @@ The common thread is a belief that the most interesting engineering problems sit
 <tr>
 <td width="50%">
 
-### 🌙 Midnight Momentum
+### 🌙 [Midnight Momentum](https://github.com/Omar11N/Midnight-Momentum)
 **Behavior change platform with LLM-driven coaching**
 
 - RAG-based assistant with real-time user context
@@ -71,13 +71,36 @@ The common thread is a belief that the most interesting engineering problems sit
 </td>
 <td width="50%">
 
-### 🤖 CHECK24 AI Chatbot
-**Customer service automation at scale**
+### 🧠 [Eva — Multi-Agent AI Engine](https://github.com/Omar11N/EVA-Chatbot_MidnightMomentum)
+**Hierarchical LangGraph agent powering Midnight Momentum**
 
-- Scaled AI-driven response rate from **0% → 93%**
-- Model Context Protocol (MCP) + RAG architecture
-- Led cross-functional team of 6 engineers
-- End-to-end product ownership & KPI tracking
+- Supervisor/worker architecture with 4 specialized agents
+- Bidirectional API: Eva acts *on* the client, not just responds
+- Redis state management + PostgreSQL persistent memory
+- Deployed on GCP Vertex AI with Gemini 2.5
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [Modern Agentic RAG](https://github.com/Omar11N/modern-agentic-RAG)
+**Production-grade RAG with hybrid search & LangGraph loop**
+
+- Hybrid retrieval: BM25 + BGE-M3 dense, fused via RRF
+- LangGraph agentic loop with auto query rewriting
+- GraphRAG knowledge graph for multi-hop reasoning
+- 5 swappable LLM providers · RAGAs evaluation on every response
+
+</td>
+<td width="50%">
+
+### 🏎️ Autonomous Racing in Unreal Engine
+**RL agents for high-speed self-driving** *(repo coming soon)*
+
+- SAC & PPO agents in custom Unreal Engine environments
+- Reward shaping for high-speed autonomous navigation
+- Hyperparameter tuning & benchmarking pipelines
 
 </td>
 </tr>
@@ -88,24 +111,10 @@ The common thread is a belief that the most interesting engineering problems sit
 **Morphological Computation as Intrinsic Reward for RL**
 
 - Novel intrinsic reward shaping for robotic agents
-- Presented at international conference (GSO 2025)
-- Builds on transfer learning & sim-to-real strategies
-- Implemented in MuJoCo Meta-World benchmarks
+- Published at international conference (GSO 2025)
+- MuJoCo Meta-World benchmarks · sim-to-real strategies
 
 </td>
-<td width="50%">
-
-### 🏎️ Autonomous Racing in Unreal Engine
-**RL agents for high-speed self-driving**
-
-- SAC & PPO agents in custom Unreal environments
-- Reward shaping for high-speed autonomous navigation
-- Hyperparameter tuning & benchmarking pipelines
-- Ongoing research project
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🫁 Lung Disease Detection CNN
@@ -114,16 +123,6 @@ The common thread is a belief that the most interesting engineering problems sit
 - Automated diagnosis: COVID-19, pneumonia, lung opacity
 - End-to-end preprocessing pipeline for X-ray images
 - Noise reduction & augmentation for robustness
-
-</td>
-<td width="50%">
-
-### 🎙️ German Speech-to-Text (NeMo)
-**Domain-adapted ASR for German**
-
-- Fine-tuned NVIDIA NeMo for German transcription
-- Adapted for domain-specific terminology
-- Production-ready speech recognition pipeline
 
 </td>
 </tr>
