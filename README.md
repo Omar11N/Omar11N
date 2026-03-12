@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omar%20Baiazid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- Badges -->
@@ -15,13 +14,11 @@
 
 ## 👋 About Me
 
-I'm an **AI Engineer & ML Researcher** specializing in LLM systems, Reinforcement Learning, and production AI deployment. I bridge the gap between cutting-edge research and real-world applications — from fine-tuned models and RAG pipelines to deployed chatbots and intelligent mobile apps.
+My work sits at the intersection of **rigorous ML research and shipping things that matter**. By training I'm a reinforcement learning researcher — my MSc thesis on intrinsic reward shaping was published at **GSO 2025**, and I've spent years implementing RL algorithms in simulation environments for robotics and autonomous systems. In practice I also build production AI: at CHECK24 I led a team that took a customer service chatbot from 0% to **93% AI-driven automation**, and I'm currently building **Midnight Momentum** — a behavior change app that uses LLM-driven coaching to help people connect with their future selves.
 
-- 🎓 **MSc Computer Science – Machine Learning** @ Hamburg University of Technology
-- 📄 **Published Researcher** — *Morphological Computation as Intrinsic Reward for RL* at **GSO 2025**
-- 🤖 Built a customer service chatbot at **CHECK24** scaling AI automation from **0% → 93%**
-- 🚀 Currently building **Midnight Momentum** — a behavior change platform with LLM-driven coaching
-- 🧠 Deep passion for **Reinforcement Learning**, robotics simulation, and autonomous systems
+The common thread is a belief that the most interesting engineering problems sit right at the edge between what's technically hard and what's genuinely useful to people. That's what keeps me here.
+
+> 🔭 Currently working on: autonomous racing agents in Unreal Engine · Midnight Momentum v1 launch
 
 ---
 
