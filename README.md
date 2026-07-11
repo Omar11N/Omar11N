@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omar%20Baiazid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,45:0E2A47,100:4DA3FF&height=210&section=header&text=Omar%20Baiazid&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Head%20of%20AI%20%26%20Automation%20Processes%20%7C%20Founder%20%7C%20RL%20Researcher&descAlignY=58&descSize=17&descColor=9CC8FF" width="100%"/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Baiazid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-baiazid/)
-[![Email](https://img.shields.io/badge/Email-obaiazed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaiazed@gmail.com)
-[![Location](https://img.shields.io/badge/Hamburg-Germany-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![GSO 2025](https://img.shields.io/badge/Published-GSO%202025-22c55e?style=for-the-badge&logo=academia&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=640&lines=I+teach+machines+to+make+decisions+people+can+trust.;Head+of+AI+%26+Automation+Processes+%40+SYNIOS;Founder+of+Midnight+Momentum;RL+research+strongly+accepted+%40+GSO+2025" alt="Typing intro"/>
+
+<br/>
+
+<!-- Badges — unified dark base, one accent each -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Baiazid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0C)](https://www.linkedin.com/in/omar-baiazid/)
+[![Email](https://img.shields.io/badge/Email-obaiazed%40gmail.com-4DA3FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0C)](mailto:obaiazed@gmail.com)
+[![Location](https://img.shields.io/badge/Hamburg-Germany-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0A0C)](#)
+[![GSO 2025](https://img.shields.io/badge/Strongly%20Accepted-GSO%202025-22c55e?style=for-the-badge&logo=academia&logoColor=white&labelColor=0A0A0C)](#)
 
 </div>
 
@@ -14,11 +18,15 @@
 
 ## 👋 About Me
 
-My work sits at the intersection of **rigorous ML research and shipping things that matter**. By training I'm a reinforcement learning researcher — my MSc thesis on intrinsic reward shaping was published at **GSO 2025**, and I've spent years implementing RL algorithms in simulation environments for robotics and autonomous systems. In practice I also build production AI: at CHECK24 I led a team that took a customer service chatbot from 0% to **93% AI-driven automation**, and I'm currently building **Midnight Momentum** — a behavior change app that uses LLM-driven coaching to help people connect with their future selves.
+I build AI systems people can rely on — in the enterprise and in mental health.
 
-The common thread is a belief that the most interesting engineering problems sit right at the edge between what's technically hard and what's genuinely useful to people. That's what keeps me here.
+I lead **AI & Automation Processes at SYNIOS**, where my team turns document-heavy enterprise workflows into intelligent, self-running pipelines — LLMs, VLMs, computer vision, and agentic RAG in production. Before that, at **CHECK24**, I led a four-person team that took a customer-service chatbot's AI answer rate from **0% to 93%** and deployed one of our earliest Model Context Protocol servers.
 
-> 🔭 Currently working on: autonomous racing agents in Unreal Engine · Midnight Momentum v1 launch
+By training I'm a reinforcement-learning researcher: my M.Sc. thesis on **morphological computation as intrinsic reward** was strongly accepted at **GSO 2025** — agents whose bodies co-evolve with their policies invented physics-exploiting gaits nobody programmed. And as a founder I'm building **Midnight Momentum**, an AI mental-health companion with LLM-driven coaching: 50+ users, 70%+ retention, sub-300 ms retrieval.
+
+Whether it's enterprise automation, a companion app, or a robot that jumps because jumping is easier — my work is one question: **how do machines learn to make decisions humans can trust?**
+
+> 🔭 **Now:** AI strategy & production systems @ SYNIOS · Midnight Momentum v1 launch · autonomous racing agents in Unreal Engine
 
 ---
 
@@ -26,11 +34,16 @@ The common thread is a belief that the most interesting engineering problems sit
 
 <div align="center">
 
-### AI / ML
+### GenAI & Agents
+![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-0A0A0C?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ML & Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +51,8 @@ The common thread is a belief that the most interesting engineering problems sit
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Robotics & Simulation
+### RL, Robotics & Simulation
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-B31B1B?style=for-the-badge&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-00B4D8?style=for-the-badge&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -61,12 +75,12 @@ The common thread is a belief that the most interesting engineering problems sit
 <td width="50%">
 
 ### 🌙 [Midnight Momentum](https://github.com/Omar11N/Midnight-Momentum)
-**Behavior change platform with LLM-driven coaching**
+**AI mental-health companion — founder, first commit to production**
 
-- RAG-based assistant with real-time user context
-- "Future Self Persona" system with push notifications
-- Flask + PostgreSQL backend, React Native frontend
-- GCP Vertex AI · OAuth2 · JWT · 50+ alpha users
+- LLM-guided coaching built around *intrinsic* motivation
+- RAG answering in **< 300 ms** with real-time user context
+- Flask + PostgreSQL + GCP Vertex AI · React Native + OAuth2/JWT
+- **50+ users · 70%+ retention · 4.2/5 satisfaction**
 
 </td>
 <td width="50%">
@@ -95,6 +109,19 @@ The common thread is a belief that the most interesting engineering problems sit
 </td>
 <td width="50%">
 
+### 🧬 M.Sc. Research — GSO 2025
+**Morphological Computation as Intrinsic Reward for RL**
+
+- Body and policy co-evolve: morphologies that make learning easier survive
+- Agents invented a physics-exploiting jumping gait nobody programmed
+- Faster learning & higher final reward than the SAC baseline
+- **Strongly accepted @ GSO 2025** · thesis grade 1.3
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🏎️ Autonomous Racing in Unreal Engine
 **RL agents for high-speed self-driving** *(repo coming soon)*
 
@@ -103,43 +130,52 @@ The common thread is a belief that the most interesting engineering problems sit
 - Hyperparameter tuning & benchmarking pipelines
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧬 MSc Research – GSO 2025
-**Morphological Computation as Intrinsic Reward for RL**
-
-- Novel intrinsic reward shaping for robotic agents
-- Published at international conference (GSO 2025)
-- MuJoCo Meta-World benchmarks · sim-to-real strategies
-
-</td>
 <td width="50%">
 
 ### 🫁 Lung Disease Detection CNN
-**1st Place · 98.5% Accuracy**
+**1st place · 98.5% multi-class accuracy**
 
-- Automated diagnosis: COVID-19, pneumonia, lung opacity
-- End-to-end preprocessing pipeline for X-ray images
-- Noise reduction & augmentation for robustness
+- COVID-19 / pneumonia diagnosis on **16,000+ chest X-rays**
+- ResNet/DenseNet-informed architecture in TensorFlow
+- End-to-end preprocessing, noise reduction & augmentation
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+*Also shipped: German speech-to-text (NVIDIA NeMo) — 15,000+ daily transcriptions at 95% confidence · LSTM solar forecasting across 200+ sites — 61% → 87% accuracy, adopted in production.*
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Omar11N&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=4DA3FF&icon_color=4DA3FF&text_color=A1A1A6&ring_color=4DA3FF" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar11N&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=4DA3FF&text_color=A1A1A6" height="165" alt="Top languages"/>
+
+</div>
+
 ---
 
 ## 🌍 Languages
 
-🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇩🇪 German (C2) &nbsp;|&nbsp; 🇬🇧 English (C1)
+<div align="center">
+
+🇸🇦 Arabic (Native) &nbsp;·&nbsp; 🇩🇪 German (C2) &nbsp;·&nbsp; 🇬🇧 English (C1)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA3FF,55:0E2A47,100:0A0A0C&height=110&section=footer" width="100%"/>
 
-*Building AI that works in the real world — from fine-tuned models to deployed applications.*
+*I teach machines to make decisions — and make sure people can trust them.*
 
 </div>
