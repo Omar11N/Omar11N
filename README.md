@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".header.svg" width="100%" alt="Omar Baiazid — Head of AI & Automation Processes · Founder · RL Researcher"/>
+<img src="./header.svg" width="100%" alt="Omar Baiazid — Head of AI & Automation Processes · Founder · RL Researcher"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=640&lines=I+teach+machines+to+make+decisions+people+can+trust.;Head+of+AI+%26+Automation+Processes+%40+SYNIOS;Founder+of+Midnight+Momentum;RL+research+strongly+accepted+%40+GSO+2025" alt="Typing intro"/>
 
@@ -174,6 +174,6 @@ Whether it's enterprise automation, a companion app, or a robot that jumps becau
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="I teach machines to make decisions — and make sure people can trust them."/>
+<img src="./footer.svg" width="100%" alt="I teach machines to make decisions — and make sure people can trust them."/>
 
 </div>
