@@ -1,0 +1,35 @@
+<svg width="854" height="96" viewBox="0 0 854 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="I teach machines to make decisions — and make sure people can trust them.">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E2A47"/>
+      <stop offset="0.5" stop-color="#0C1522"/>
+      <stop offset="1" stop-color="#0A0A0C"/>
+    </linearGradient>
+    <linearGradient id="edgef" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4DA3FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4DA3FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blurf" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="cardf"><rect x="1" y="1" width="852" height="94" rx="14"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="852" height="94" rx="14" fill="url(#bgf)"/>
+  <g clip-path="url(#cardf)" filter="url(#blurf)" opacity="0.4">
+    <ellipse cx="300" cy="96" rx="280" ry="30" fill="#4DA3FF" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 60 0; 0 0" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="640" cy="100" rx="220" ry="26" fill="#FF3B30" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -50 0; 0 0" dur="15s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <rect x="1" y="1" width="852" height="1.5" fill="url(#edgef)" opacity="0.65"/>
+
+  <text x="427" y="54" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic"
+        fill="#A1A1A6">I teach machines to make decisions — and make sure people can <tspan fill="#4DA3FF">trust</tspan> them.</text>
+
+  <rect x="1" y="1" width="852" height="94" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+</svg>

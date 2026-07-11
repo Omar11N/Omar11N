@@ -1,0 +1,72 @@
+<svg width="854" height="230" viewBox="0 0 854 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Omar Baiazid — Head of AI and Automation Processes, Founder, RL Researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0A0C"/>
+      <stop offset="0.55" stop-color="#0C1522"/>
+      <stop offset="1" stop-color="#0E2A47"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4DA3FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4DA3FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur30" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <filter id="blur18" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.05"/></feComponentTransfer>
+      <feComposite operator="over" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="card"><rect x="1" y="1" width="852" height="228" rx="16"/></clipPath>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="852" height="228" rx="16" fill="url(#bg)"/>
+
+  <g clip-path="url(#card)">
+    <!-- aurora ribbons (site hero echo: azure + red) -->
+    <g filter="url(#blur30)" opacity="0.55">
+      <ellipse cx="620" cy="178" rx="300" ry="46" fill="#FF3B30" opacity="0.42">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -70 -10; 0 0" dur="16s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="240" cy="192" rx="330" ry="52" fill="#4DA3FF" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 80 -6; 0 0" dur="20s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g filter="url(#blur18)" opacity="0.6">
+      <ellipse cx="430" cy="196" rx="240" ry="22" fill="#E8F2FF" opacity="0.28">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 50 4; 0 0" dur="13s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- grain -->
+    <rect x="0" y="0" width="854" height="230" filter="url(#grain)" opacity="0.5" fill="#000" fill-opacity="0"/>
+  </g>
+
+  <!-- top edge light -->
+  <rect x="1" y="1" width="852" height="1.5" fill="url(#edge)" opacity="0.65"/>
+
+  <!-- name -->
+  <text x="427" y="102" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="56" font-style="italic"
+        fill="#EDEDED" letter-spacing="0.5">Omar Baiazid</text>
+
+  <!-- divider dot line -->
+  <rect x="367" y="124" width="120" height="1" fill="#4DA3FF" opacity="0.55"/>
+
+  <!-- descriptor -->
+  <text x="427" y="152" text-anchor="middle"
+        font-family="'Courier New', ui-monospace, monospace" font-size="13.5"
+        fill="#9CC8FF" letter-spacing="2.5">HEAD OF AI &amp; AUTOMATION PROCESSES</text>
+  <text x="427" y="174" text-anchor="middle"
+        font-family="'Courier New', ui-monospace, monospace" font-size="12"
+        fill="#85858F" letter-spacing="2.5">FOUNDER · RL RESEARCHER · HAMBURG</text>
+
+  <!-- card border -->
+  <rect x="1" y="1" width="852" height="228" rx="16" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+</svg>
