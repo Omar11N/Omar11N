@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,45:0E2A47,100:4DA3FF&height=210&section=header&text=Omar%20Baiazid&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Head%20of%20AI%20%26%20Automation%20Processes%20%7C%20Founder%20%7C%20RL%20Researcher&descAlignY=58&descSize=17&descColor=9CC8FF" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Omar Baiazid — Head of AI & Automation Processes · Founder · RL Researcher"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=640&lines=I+teach+machines+to+make+decisions+people+can+trust.;Head+of+AI+%26+Automation+Processes+%40+SYNIOS;Founder+of+Midnight+Momentum;RL+research+strongly+accepted+%40+GSO+2025" alt="Typing intro"/>
 
@@ -174,8 +174,6 @@ Whether it's enterprise automation, a companion app, or a robot that jumps becau
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA3FF,55:0E2A47,100:0A0A0C&height=110&section=footer" width="100%"/>
-
-*I teach machines to make decisions — and make sure people can trust them.*
+<img src="./assets/footer.svg" width="100%" alt="I teach machines to make decisions — and make sure people can trust them."/>
 
 </div>
